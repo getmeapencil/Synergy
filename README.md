@@ -11,3 +11,7 @@ Just make a pull request and I'll merge.
 
 ### 🔗 Link:
 - https://getmeapencil.github.io/Synergy/
+
+### 🗃️ Resources:
+- Learn how to contribute:
+https://github.com/firstcontributions/first-contributions
