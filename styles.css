@@ -1,0 +1,19 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  padding: 1px;
+  background-color: darkgrey;
+}
+
+#main {
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
