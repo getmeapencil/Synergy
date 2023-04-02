@@ -18,12 +18,11 @@ a {
     color: #11ff00;
 }
 #address {
-    display: block;
-    width: clamp(315px, 95vw, 700px);
+    width: clamp(290px, 90vw, 700px);
 }
 #box {
     border: 1px solid;
     border-radius: 0.2rem;
-    width: clamp(315px, 90vw, 700px);
+    width: clamp(290px, 90vw, 700px);
     padding: 0.5rem;
 }
