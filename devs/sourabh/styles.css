@@ -27,5 +27,7 @@ a {
     padding: 0.5rem;
 }
 #pfp {
-    width: 100px;
+    width: 140px;
+    float: left;
+    margin: 1.5rem 2rem 0 0;
 }
