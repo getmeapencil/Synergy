@@ -26,3 +26,6 @@ a {
     width: clamp(290px, 90vw, 700px);
     padding: 0.5rem;
 }
+#pfp {
+    width: 100px;
+}
